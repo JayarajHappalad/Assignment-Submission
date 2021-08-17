@@ -12,5 +12,5 @@ Original file is located at
 X=2
 Y=3
 res=X**Y
-print(res)
+print('X to the power Y is:'res)
 
